@@ -1,6 +1,6 @@
 
 {
-  "status": "fail",
+  "status": "ok",
   "version": "1.0.3",
 "info": "Game Development version",
   "env": "prod",
